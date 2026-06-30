@@ -23,7 +23,7 @@ Passionate about building responsive, user-friendly web applications using Java 
 
 🔗 [Personal Portfolio](https://pallavichunchu.github.io/personal-portfolio/)
 
-<sub> Visit my portfolio to explore my projects, technical skills, certifications, and resume.</sub>
+<sub> Explore my portfolio to view projects, technical skills, certifications, and resume.</sub>
 
 ---
 
