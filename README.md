@@ -87,6 +87,3 @@ Passionate about building responsive, user-friendly web applications using Java 
   </a>
 </p>
 
----
-
-<h3 align="center">⭐ Thank you for visiting my GitHub Profile! ⭐</h3>
