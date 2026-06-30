@@ -16,7 +16,7 @@ Passionate about building responsive, user-friendly web applications using Java 
 - 💻 Passionate about Software Development and Front-End Web Development
 - 🚀 Skilled in Java, HTML5, CSS3, JavaScript, and Oracle SQL
 - 🌐 Experienced in building responsive and user-friendly web applications
-- 🎯 Seeking opportunities as a Software Developer / Web Developer /  Java Developer 
+- 🎯 Seeking Software Developer and Java Developer opportunities to build scalable and user-friendly applications.
 
 ---
 **💻 All My Projects**
